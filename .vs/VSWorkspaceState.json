@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\config",
+    "\\backend\\controllers",
+    "\\backend\\models",
+    "\\backend\\routes",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\recoil",
+    "\\src\\utils"
+  ],
+  "SelectedNode": "\\src\\components\\ToDoList.tsx",
+  "PreviewInSolutionExplorer": false
+}
